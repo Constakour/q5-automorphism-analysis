@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15231024.svg)](https://doi.org/10.5281/zenodo.15231024)
+
 # q5-automorphism-analysis
 
 C++ and Python tools for detecting **pairs-only half-set complement symmetries** in the 5-dimensional hypercube \( Q_5 \) via automorphisms.
